@@ -1,4 +1,3 @@
-
 # Bianance API key
 api_key = ""
 
